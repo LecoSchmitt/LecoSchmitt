@@ -9,7 +9,7 @@ class AboutMe extends Developer {
 }
 
 class Skills extends Developer {
-  Languages = ["Dart", "C#", "Pascal"];
+  Languages = ["Dart", "C#"];
   Libraries = [];
   frameworks = ["Flutter"];
 }
