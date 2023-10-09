@@ -1,16 +1,16 @@
 ```js
-import Desenvolvedor from "SeuNick";
+import Desenvolvedor from "Sch10s";
 
 class SobreMim extends Desenvolvedor {
-  nome = "Seu nome";
-  area = "Sua área";
-  trabalho = "Onde trabalha";
-  local = "Local";
+  nome = "Schias";
+  area = "Segurança da informação";
+  trabalho = "Datainfo";
+  local = "Blumenau";
 }
 
 class Skills extends Desenvolvedor {
-  linguagens = ["Suas linguagens"];
-  bibliotecas = ["Suas bibliotecas"];
-  frameworks = ["Seus frameworks"];
+  linguagens = ["Dart", "C#", "Pascal"];
+  bibliotecas = [];
+  frameworks = ["Flutter"];
 }
 ```
