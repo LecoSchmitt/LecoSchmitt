@@ -3,7 +3,7 @@ import Developer from "Sch10s";
 
 class AboutMe extends Developer {
   name = "Schias";
-  area = "Segurança da informação";
+  area = "DevSecOps";
   work = "Datainfo";
   local = "Blumenau";
 }
