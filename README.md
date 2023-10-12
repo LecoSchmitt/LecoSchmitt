@@ -14,3 +14,5 @@ class Skills extends Developer {
   frameworks = ["Flutter"];
 }
 ```
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sch10s&theme=dracula&hide_langs_below=1" />
+
