@@ -2,7 +2,7 @@
 import Developer from "Sch10s";
 
 class AboutMe extends Developer {
-  name = "Schias";
+  name = "Leandro Elias";
   area = "DevSecOps";
   work = "Datainfo";
   local = "Blumenau";
