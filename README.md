@@ -15,7 +15,7 @@ class Skills extends Developer {
 }
 ```
 
-<img width="100%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sch10s&theme=darcula&hide_title=true" />
+<img width="100%" height="500px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sch10s&theme=darcula&hide_title=true" />
 
 
 
