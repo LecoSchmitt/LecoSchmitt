@@ -1,9 +1,9 @@
 ```js
-import Developer from "Sch10s";
+import Developer from "keavell";
 
 class AboutMe extends Developer {
   name = "Leandro Elias";
-  area = "DevSecOps";
+  area = "CyberSecurity";
   work = "Datainfo";
   local = "Blumenau";
 }
