@@ -4,7 +4,7 @@ import Developer from "keavell";
 class AboutMe extends Developer {
   name = "Leandro Elias";
   area = "CyberSecurity";
-  work = "Datainfo";
+  work = "Central Ailos";
   local = "Blumenau";
 }
 
