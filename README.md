@@ -1,14 +1,14 @@
 ```js
-import Developer from "Scharmilian";
+import Info from "Scharmilian";
 
-class AboutMe extends Developer {
+class AboutMe extends Info {
   name = "Leandro Elias";
   area = "CyberSecurity";
   work = "Central Ailos";
   local = "Blumenau";
 }
 
-class Skills extends Developer {
+class Skills extends Info {
   Languages = ["Dart", "C#"];
   frameworks = ["Flutter", "ASP.NET"];
 }
