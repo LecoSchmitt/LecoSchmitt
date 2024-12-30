@@ -8,8 +8,4 @@ class AboutMe extends Info {
   local = "Blumenau";
 }
 
-class Skills extends Info {
-  Languages = ["Dart", "C#"];
-  frameworks = ["Flutter", "ASP.NET"];
-}
 ```
