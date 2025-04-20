@@ -4,7 +4,7 @@ import Info from "LecoSchmitt";
 class AboutMe extends Info {
   name = "Leandro Elias";
   area = "CyberSecurity";
-  work = "Central Ailos";
+  work = "Cooperativa Central Ailos";
   local = "Blumenau";
 }
 
