@@ -1,10 +1,9 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/blueset/blueset/raw/3ce7e89a8c855d216fb2999677411439711afdf2/EanaHandwritingAnimatedDark.svg">
-  <img alt="Eana Hufwe" src="https://github.com/blueset/blueset/raw/b322cb383b852d7e6609681a8f4bff64932cd96e/EanaHandwritingAnimatedLight.svg">
-</picture>
+![Charles VAN GOETHEM](https://raw.githubusercontent.com/Char-Al/char-al/master/puzzle.jpg)
 
-<p align="center">
-A software engineer who enjoys building tools, design, typography and Vocaloid.<br>
-<br>
-<br>
-</p>
+## Info
+
+Hi there, I'm Charles a bioinformatics engineer.
+
+- :computer: I'm currently working for :whale: [MoBiDiC](https://github.com/mobidic) at :hospital: [CHU Montpellier](https://www.chu-montpellier.fr/en/)
+- :school: I'm currently learning : flask, streamlit
+- :dart: Fun fact : I already made a Robin Hood in darts (twice)
