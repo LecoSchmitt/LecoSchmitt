@@ -2,7 +2,7 @@
 
 ## Info
 
-Hi there, I'm Leandro a Information Security professional.
+Hi there, I'm Leandro, a Information Security professional.
 
-- :computer: I currently work in the field of cybersecurity, with a focus on CSIRT
-- :school: I am studying data protection and cryptography
+- :computer: I currently work in the field of cybersecurity, with a focus on CSIRT operations.
+- :school: I am studying data protection and cryptography.
